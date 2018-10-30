@@ -5,6 +5,7 @@ Awesome Technology Stack Study Case
 
 ## Kotlin
 1. GO-JEK (https://play.google.com/store/apps/details?id=com.gojek.app)
+2. Proyandes (https://play.google.com/store/apps/details?id=app.proyandes.badung)
 
 ## Flutter
 
